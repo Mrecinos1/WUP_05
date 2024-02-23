@@ -60,6 +60,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+there were three times the people who were in the placebo group who reported getting aids in comparison to the people who were taking actual drugs 
 
 ## Inferential Results
 
